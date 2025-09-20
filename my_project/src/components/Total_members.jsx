@@ -1,7 +1,7 @@
 import React from "react";
 
 // Object Destructuring
-const card = ({ title, value }) => {
+const card = ({ title, value, }) => {
   return (
     <div className="flex bg-green-900 items-center">
       <div>
