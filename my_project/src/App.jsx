@@ -9,13 +9,13 @@ function App() {
     <h1 className="text-5xl font-bold pt-40 pl-64 ">Faith</h1>
     <div className="flex items-center justify-center pb-28">
     <div className="pt-30 pl-30">
-    <Cards_Faith/>
+    <Cards_Faith text="QURAN RECITATION"/>
     </div>
     <div className="pt-30 pl-30">
-    <Cards_Faith/>
+    <Cards_Faith text="OFFER PRAYER"/>
     </div>
     <div className="pt-30 pl-30">
-    <Cards_Faith/>
+    <Cards_Faith text="PERFOEM HAJJ"/>
     </div>
     </div>
     {/* <div className="flex">
